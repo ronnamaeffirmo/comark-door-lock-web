@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8de881e-c2ff-4173-8ea9-14c5a95a3fb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/actions/log.actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/rfid.actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/configureStore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/log.reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/rfid.reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/screens/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/log.actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/log.actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/actions/rfid.actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/rfid.actions.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +61,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569276498179</updated>
-      <workItem from="1569276502107" duration="5770000" />
+      <workItem from="1569276502107" duration="5912000" />
+      <workItem from="1569314148382" duration="64000" />
     </task>
     <servers />
   </component>
@@ -82,7 +74,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

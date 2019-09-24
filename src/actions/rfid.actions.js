@@ -3,7 +3,7 @@ export const GET_RFIDS = 'GET_RFIDS'
 export const getRfids = () => {
     return async dispatch => {
         try {
-            const fetched = await fetch('http://localhost:3030/rfids')
+            const fetched = await fetch('https://comark-door-lock-api.herokuapp.com/rfids')
             const rfids = await fetched.json()
 
             dispatch({
@@ -19,7 +19,7 @@ export const getRfids = () => {
 export const createRfid = values => {
     return async dispatch => {
         try {
-            await fetch("http://localhost:3030/rfids", {
+            await fetch("https://comark-door-lock-api.herokuapp.com/rfids", {
                 method: "POST",
                 headers: {'Content-Type': 'application/json'},
                 body: JSON.stringify({
